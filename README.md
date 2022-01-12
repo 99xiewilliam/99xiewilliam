@@ -9,6 +9,7 @@
 📫 我的邮箱:xwh2725642450@163.com
 
 👯 我的blog:https://blog.csdn.net/weixin_43866640?type=blog
+blog2:https://99xiewilliam.github.io
 
 💬 很欢迎和大家一起讨论技术相关的话题
 
