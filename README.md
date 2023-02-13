@@ -2,11 +2,9 @@
 
 我是william，一个社交码农
 
-🔭 我现在就读香港中文大学信息工程专业(硕士)
+🔭 香港中文大学信息工程专业(硕士)
 
-🌱 我现在主要写java和go
-
-📫 我的邮箱:xwh2725642450@163.com
+🌱 主要技术栈java
 
 👯 我的blog:https://blog.csdn.net/weixin_43866640?type=blog
 blog2:https://99xiewilliam.github.io
