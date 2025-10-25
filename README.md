@@ -2,9 +2,7 @@
 
 我是william，一个社交码农
 
-🔭 香港中文大学信息工程专业(硕士)
-
-🌱 主要技术栈java
+🌱 主要技术栈java, fastapi, nextjs
 
 👯 我的blog:https://blog.csdn.net/weixin_43866640?type=blog
 blog2:https://99xiewilliam.github.io
